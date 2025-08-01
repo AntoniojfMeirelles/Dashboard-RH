@@ -4,7 +4,7 @@ Este projeto Power BI tem como objetivo fornecer uma análise completa de dados 
 
 <img width="1058" height="590" alt="print capa" src="https://github.com/user-attachments/assets/2f8251a3-ab4f-4419-a9ce-dcd55a24aabb" />
 <img width="1057" height="594" alt="print dash" src="https://github.com/user-attachments/assets/e25cd3b6-f2e4-4926-88ff-e7dfe0295b52" />
-<img width="1057" height="594" alt="print dash" src="https://github.com/user-attachments/assets/2f5d928b-d9e1-4e1b-ab5e-5f5b027d9a7a" />
+<img width="1049" height="593" alt="print dash dica" src="https://github.com/user-attachments/assets/e17a3da1-f463-4b45-918a-623ca183ebf3" />
 
 Dica de Ferramenta
 
